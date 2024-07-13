@@ -10,7 +10,7 @@ def index(request):
 
 def movies(request, movies_id):
     #SELECT * FROM pokedex_pokemon WHERE id='pokemon_id'
-    pokemon = Movies.objects.get(id=movies_id)
+    movies = Movies.objects.get(id=movies_id)
     template = loader.get_template('display_movies.html')
     context = {
         'movies': movies
