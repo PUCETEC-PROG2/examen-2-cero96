@@ -1,5 +1,5 @@
 """
-ASGI config for examen2 project.
+ASGI config for lab8 project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 

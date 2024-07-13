@@ -1,5 +1,5 @@
 """
-WSGI config for examen2 project.
+WSGI config for lab8 project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
